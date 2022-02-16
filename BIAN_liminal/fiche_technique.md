@@ -1,6 +1,4 @@
-# Requirements
-
-## titre de l'oeuvre
+# LIMINAL
 
 - nom de l'artiste
 - année de réalisation
