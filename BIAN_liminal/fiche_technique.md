@@ -1,6 +1,7 @@
 # LIMINAL
 
 http://patenteux.com/wp/portfolio/liminal/
+
 - nom de l'artiste
 - année de réalisation
 - nom de l'exposition
