@@ -2,7 +2,7 @@
 
 http://patenteux.com/wp/portfolio/liminal/
 
-![planche_explication](/bian_luminal/medias/planche_explication.jpg)
+![planche_explication](/BIAN_liminal/media/planche_explication.jpg)
 
 - nom de l'artiste
 - année de réalisation
