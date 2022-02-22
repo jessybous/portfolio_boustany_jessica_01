@@ -2,6 +2,8 @@
 
 http://patenteux.com/wp/portfolio/liminal/
 
+![planche_explication](/bian_luminal/medias/planche_explication.jpg)
+
 - nom de l'artiste
 - année de réalisation
 - nom de l'exposition
