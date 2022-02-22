@@ -2,15 +2,13 @@
 
 http://patenteux.com/wp/portfolio/liminal/
 
-![planche_explication](/BIAN_liminal/media/planche_explication.jpg)
 
-- nom de l'artiste
-- année de réalisation
-- nom de l'exposition
-- lieu de mise en exposition
-- date de votre visite
+
+L'artiste se nomme Louis-Philippe Rondeau. Liminal a été réalisé en 2018, et est mise en exposition à Arsenal art contemporain 2020, que j'ai visité le  9 février 2022.
 
 ## description
+![planche_explication](/BIAN_liminal/media/planche_explication.jpg)
+
 - Description de l'oeuvre ou du dispositif multimédia 
 - Explications sur la mise en espace de l'oeuvre ou du dispositif 
 - Liste des composantes et techniques de l'oeuvre ou du dispositif 
