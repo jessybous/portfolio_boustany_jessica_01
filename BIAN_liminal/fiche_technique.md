@@ -1,10 +1,8 @@
 # LIMINAL
 
-http://patenteux.com/wp/portfolio/liminal/
-
 ![liminal_cercle](/BIAN_liminal/media/liminal_cercle.png)
 
-L'artiste se nomme Louis-Philippe Rondeau. Liminal a été réalisé en 2018, et est mise en exposition à Arsenal art contemporain 2020, que j'ai visité le  9 février 2022.
+L'artiste se nomme Louis-Philippe Rondeau. Liminal a été réalisé en 2018, et est mise en exposition à la BIAN, à Arsenal art contemporain 2020, que j'ai visité le  9 février 2022.
 
 ## description
 ![planche_explication](/BIAN_liminal/media/planche_explication.jpg)
@@ -18,18 +16,19 @@ Les éléments nécessaires pour la mise en exposition sont:
 - Un projecteur
 - Des haut-parleurs
 
+![liminal_installation](/BIAN_liminal/media/liminal_installation.png)
+
 ## expérience vécue
-- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
--  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Cet oeuvre m'a beaucoup fait rire. Elle était simple a utilisé, et était un excellent moyen de capturer quelque chose d'amusant dans le temps. Le fait de passer d'un anneau de lumière à une image déformer sur un écran(dans le cas de l'exposition, un mur) captive la curiosité et l'attention du visiteur. 
+
+Le son que faisait le dispositif quand on était dans le champ de la caméra nous mais dans l'ambiance d'un voyage dans le temps, ce qui est encore plus intrigant et m'a beaucoup plu. Les différentes possibilités d'images à projetter rendait le tout très drôle et hors du commun.
+
+J'ai trouver que l'oeuvre était simple et efficace, donc je trouve qu'elle est parfaite comme elle est et n'y porterait aucun changement.
 
 ## références
+http://patenteux.com/wp/portfolio/liminal/
 
-# photographies
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
+# photographies supplémentaires
 ![jessica_portrait](/BIAN_liminal/media/jessica_portrait.png)
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+![croquis](/BIAN_liminal/croquis/croquis)
+
