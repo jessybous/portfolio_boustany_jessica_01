@@ -1,5 +1,5 @@
 ## L'en deçà
-![composant_cables.jpg](composant_cables.jpg)
+![dehors.jpg](dehors.jpg)
 
 
 L'en deçà est une oeuvre créée par Béchard et Hudon. Cette oeuvre a été réalisée cette année, en 2022, et est exposé à la Configuration du sensible, dans la Salle Alfred-Pellan à la Maison des arts de Laval. J'ai visité cette exhibition le 16 mars 2022.
