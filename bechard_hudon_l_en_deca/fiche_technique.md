@@ -8,9 +8,11 @@ L'en deçà est une oeuvre créée par Béchard et Hudon. Cette oeuvre a été r
 
 ## Description
 
-![panneau](bechard_hudon_l_en_deca/medias/panneau.png)
+![panneau](/bechard_hudon_l_en_deca/medias/panneau.png)
 
-Cette oeuvre est un mélange d'enregistrements de plusieurs sons inconnus se trouvant proche de la mer,qui est projeter dans un espace en bois. les murs en bois formes plus ou moins un carré avec des angles qui vont vers l'exterieur, pour que le son voyage mieux et rebondit. Le matériel des murs aident aussi à ressentire la vibration des sons sur ceux-ci.
+Cette oeuvre est un mélange d'enregistrements de plusieurs sons inconnus se trouvant proche de la mer, qui est projeter dans un espace en bois. les murs en bois formes plus ou moins un carré avec des angles qui vont vers l'exterieur, pour que le son voyage mieux et rebondit. Le matériel des murs aident aussi à ressentire la vibration des sons sur ceux-ci.
+
+[![sons](https://img.youtube.com/vi/tvCPHiN5dWk/0.jpg)](http://www.youtube.com/watch?v=tvCPHiN5dWk)
 
 ![haut-parleurs](/bechard_hudon_l_en_deca/medias/haut-parleur.jpg)
 
@@ -21,21 +23,9 @@ Tout est relié a ce dispositif qui transmet les enregistrements de sons
 
 ## expérience vécue
 
-j'ai beaucoup aimé le fait que les sons laisse place à notre imagination. Les vibations des murs m'apaisait et rendait le tout plus intéressant.
+J'ai beaucoup aimé le fait que les sons laisse place à notre imagination. Les vibations des murs m'apaisait et rendait le tout plus intéressant. Un aspect que je ne souhaiterais pas retenir pour mes propres création est l'estétique, car au premier regard l'oeuvre a l'air bizarre et non attirant, selon moi.
 
-- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
--  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## références
 
-# photographies
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
-
+https://bechardhudon.com/project/en-deca-2022/
