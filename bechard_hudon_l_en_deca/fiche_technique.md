@@ -12,6 +12,8 @@ L'en deçà est une œuvre créée par Béchard et Hudon. Cette œuvre a été r
 
 Cette œuvre est un mélange d'enregistrements de plusieurs sons inconnus se trouvant proche de la mer, qui est projeter dans un espace en bois. Les murs en bois formes plus ou moins un carré avec des angles qui vont vers l'extérieur, pour que le son voyage mieux et rebondit. Le matériel des murs aide aussi à ressentir la vibration des sons sur ceux-ci.
 
+![croquis](/bechard_hudon_l_en_deca/croquis/croquis.jpg)
+
 Voici une vidéo représentant les sons de l'œuvre:
 
 [![sons](https://img.youtube.com/vi/tvCPHiN5dWk/0.jpg)](http://www.youtube.com/watch?v=tvCPHiN5dWk)
