@@ -2,13 +2,12 @@
 ## L'horloge de l'apocalypse
 
 ![oeuvre](/6_session_horloge_apocalypse/medias/oeuvre.jpg)
-
-Le projet a été réalisé par Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco, en 2022. l'oeuvre a été exposé au collège montmorency, dans le grand studio de TIM, dans le cadre d'un projet pour la 6ème session. J'ai visité l'exposition le 23 mars 2022.
+L’exposition, portant le même nom que l’œuvre qui y est présentée : Moebius. L'oeuvre porte le nom: L’horloge de l’apocalypse. Cette oeuvre est un projet créatif qui a été réalisé par les élèves montmorenciens : Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime DeFalco. Ceux-ci ont exposé cette œuvre multimédiatique, dans le cadre de leur projet de fin de sixième session, au studio C1710 de Technique d’intégration multimédia, au Collège Montmorency. J'ai eu l’honneur de visité l'exposition, le 23 mars 2022, créée la même année que celle de ma visite, dans le but de pouvoir vivre à travers les disparates époques auxquelles la Terre a été exposée et de prendre conscience des divers enjeux actuels.
 ![selfie](/6_session_horloge_apocalypse/medias/selfie.jpg)
 
 ## Description
 
-Cette oeuvre représente le temps qui passe. Plus le temps passe, plus l'animation montre un chaos. tout ceci est controler par une horloge. À chaque fois qu'un utilisateur avance l'aiguille de l'horloge, l'animation change, laissant place à plus en plus de chaos à chaque fois. 
+Cette œuvre représente l'impact social que nous avons sur les événements politiques et environnementaux qui se déroulent tout au long du temps de l'humanité. L’horloge de l’apocalypse est référentielle à ce sujet. Présentement, il est 23h58 et, selon ce concept, la fin du monde est à 24h00. Au départ, l’utilisateur arrive dans le studio ou il y trouvera une horloge et un téléphone reposant sur un piédestal. Une caméra, un Kinect et des haut-parleurs ornent le plafond. Une lumière composée de trois projecteurs éclaire alors le centre de la pièce, mettant en valeur les objets de convoitise. Le branchement et la plantation des fils sont subtils. Un narrateur démontre le concept de l’horloge de l’apocalypse.
 
 ![photo_installation](/6_session_horloge_apocalypse/medias/installation_photo.png)
 cette horloge se trouve sur un piedestal, devant une projection sur les murs. à la droite de l'horloge, se trouve un téléphone qui sera utile à la fin de la présentation. 
