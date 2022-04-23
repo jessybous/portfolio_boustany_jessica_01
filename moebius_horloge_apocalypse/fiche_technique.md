@@ -7,19 +7,20 @@ L’exposition, portant le même nom que l’œuvre qui y est présentée : Moeb
 
 ## Description
 
-Cette œuvre représente l'impact social que nous avons sur les événements politiques et environnementaux qui se déroulent tout au long du temps de l'humanité. L’horloge de l’apocalypse est référentielle à ce sujet. Présentement, il est 23h58 et, selon ce concept, la fin du monde est à 24h00. Au départ, l’utilisateur arrive dans le studio ou il y trouvera une horloge et un téléphone reposant sur un piédestal. Une caméra, un Kinect et des haut-parleurs ornent le plafond. Une lumière composée de trois projecteurs éclaire alors le centre de la pièce, mettant en valeur les objets de convoitise. Le branchement et la plantation des fils sont subtils. Un narrateur démontre le concept de l’horloge de l’apocalypse.
+
+Cette œuvre représente l'impact social que nous avons sur les événements politiques et environnementaux qui se déroulent tout au long du temps de l'humanité. L’horloge de l’apocalypse est référentielle à ce sujet. Présentement, il est 23h58 et, selon ce concept, la fin du monde est à 24h00.
+![equipement](/moebius_horloge_apocalypse/croquis/schema_equipement.png)
+
+![installation](/moebius_horloge_apocalypse/croquis/schema_installation.png)
 
 ![photo_installation](/moebius_horloge_apocalypse/medias/installation_photo.png)
-cette horloge se trouve sur un piedestal, devant une projection sur les murs. à la droite de l'horloge, se trouve un téléphone qui sera utile à la fin de la présentation. 
 
-![equipement](/moebius_horloge_apocalypse/croquis/schema_equipement.png)
-Un Spotlight, entouré de trois projecteurs s'y trouve devant l'horloge. Des haut-parleurs se trouvent dans les quatre coins de la pièce. Une caméra et un Kinect, et des lumières se trouvent sur le plafond. pour la mise e exposition, des murs blancs étaient requis pour la projection, et un endroit isolé pour bien être immergé dans la présentation.
-![installation](/moebius_horloge_apocalypse/croquis/schema_installation.png)
+Au départ, l’utilisateur arrive dans le studio ou il y trouvera une horloge et un téléphone reposant sur un piédestal. Une caméra, un Kinect et des haut-parleurs ornent le plafond. Une lumière composée de trois projecteurs éclaire alors le centre de la pièce, mettant en valeur les objets de convoitise. Le branchement et la plantation des fils sont subtils. Un narrateur démontre le concept de l’horloge de l’apocalypse.  Les aiguilles de la montre se dirigent vers 12h au fur et à mesure que la vidéo introductive progresse. Pour la mise en exposition, il était fondamental que les murs soient blancs et isolés adéquatement, immergeant le spectateur le plus possible dans la présentation. À minuit, l’interacteur obtient le contrôle des aiguilles de l’horloge, et peut ainsi changer le temps à sa guise. Les effets sonores et visuels sont uniques à chacune des onze scènes, qui apparaissent à toutes les heures. Le début de l’humanité est portraituré par la première heure. Au fils du temps, il est possible d’apercevoir une annihilation jusqu’à ce que les aiguilles atteignent 12h. À cette dernière heure, l’animation nous déclare que retourner en arrière n’est plus réalisable tout en faisant défiler l’heure à toute allure, de nouveau, vers minuit. Ensuite, un message ainsi qu’une mélodie angoissante sont joués, le tout interrompu par la sonnerie d’un téléphone fixe à roulette au-dessus du piédestal. La scène conclusive commence par un bouton actionné par la prise de l’appareil téléphonique par l’utilisateur. Ce dernier est mis dans une situation de suspense en étant filmé et par l’affichage son image actuelle sur les murs qui l’entourent. Le but de cela est de responsabiliser le spectateur sur l’impact significatif dont chaque être humain dispose pour aider l’humanité. Au son d’une épatante musique, le narrateur adresse les visiteurs pour une dernière fois avant que tous les écrans ne deviennent noirs. L’expérience fini avec la présentation du générique contenant le nom de ces artistes remplis de talent.
+
+
 ## Expérience vécue
 
-j'était très impressionné par la qualité des transitions du son, et par les animations. les sons représenaient bien l'animation montré, ce qui ajoutait du charme à l'oeuvre. Le contrôle qu'on a sur l'oeuvre rend le tout encore plus intéressant. certaines transitions n'étaient pas parfaites comme les autres, ce que j'essaierait d'éviter dans mes propres création pour rendre le tout plus professionel.
-
-
+Personnellement, je suis très impressionnée par la qualité du son et des projections. Les effets sonores représentent bien l’animation mise en scène et ajoute du charme à l’exposition. L’interactivité des visiteurs sur l’œuvre rend le tout encore plus intéressant. Malheureusement, certaines transitions ne sont pas parfaites. J’essayerais d’éviter cela pour rendre le tout considérablement plus professionnel.
 ## Références
 
 La source contenant les informations et quelques photos sur le projet est : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
