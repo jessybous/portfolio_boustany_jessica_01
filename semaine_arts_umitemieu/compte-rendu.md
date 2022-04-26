@@ -1,1 +1,9 @@
-awa
+# Umitemieu
+
+Umitemieu est un projet muséal destiné aux élèves autochtones du primaire et du secondaire du Québec. Ce projet a pour but d’éduquer et de faire interagir les jeunes avec les œuvres autochtones muséal. Ces œuvres ont une grande importance culturelle pour ses jeunes, et ces outils numériques permet l’accès facile à cette culture. Les techniques utilisé pour numériser les objets sont la photogrammétrie et la création d’hologrammes numériques. Une conférence, animé par Stéphane Nepton (Co-fondateur, Uhu Labo Nomade), Leïla Afriat (Chargée de projet, Musée McCord), Lorie-anne Chamberland (Technicienne en muséologie, Musée McCord), eu lieu le Mercredi 30 Mars, dans la Salle Claude-Legault au collège Montmorency, de 12h30 à 14h00.
+
+Comme dit dans la conférence, les objectifs d’Umitemieu sont : soutenir la persévérance et la réussite scolaire des jeunes autochtones par les arts numériques, créer des ponts essentiels entre les ainées et les jeunes, entre les communautés et le territoire, faciliter l’accessibilité  des communautés autochtones aux objets de collections autochtones de musée, permettre aux jeunes d’interagir avec ces objets à l’aide d’outils numériques, proposer aux écoles des outils pédagogique innovent et susciter un partage d’expertise et un transfert de connaissance. Umitemieu est partenaire avec UHU – Labo Nomades, Musée Huron Wendat, Université Concordia, Stagiaire Émilio Wawati et cinq écoles participantes.
+
+Le projet commence par les écoles qui envoie une liste d’objet à numérisé, deux à trois objets sont retenus et ensuite photographier. Ses photographies sont alors numérisées par une intelligence artificielle, en 3D pour finalement les présenter aux écoles participantes. 
+
+J’ai beaucoup apprécié l’idée derrière ce projet. La numérisation est très simple et efficace, ce qui est parfait pour les jeunes. Le fait de faire soit même la numérisation rend le tout plus amusant. C’est un excellent moyen pour transmettre la culture aux jeunes autochtones, et aussi aux non-autochtones, car c’est une expérience unique en son genre.
