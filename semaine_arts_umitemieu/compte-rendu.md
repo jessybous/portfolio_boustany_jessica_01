@@ -14,4 +14,5 @@ Le projet commence par les systèmes éducatifs indigènes (les commissions scol
 
 #### Appréciation
 
-J’ai beaucoup apprécié l’idée derrière ce projet. La numérisation est très simple et efficace, ce qui est parfait pour les enfants. La possibilité de numériser le tout soi-même rend l’apprentissage plus amusant. C’est une excellente procédure pour transmettre la culture aux jeunes autochtones, et aussi aux non-autochtones, car c’est une expérience unique en son genre.
+J’ai beaucoup apprécié l’idée derrière ce projet à cause, d’une part, de la fierté culturelle de la communauté aborigène, et, d’autre part, la fierté individuelle ressentie par les étudiants qui, au cours de plusieurs ateliers, ont joué un rôle important à la construction de cette collection tout en apprenant de nouvelles compétences numériques. La numérisation est très simple et efficace, ce qui est parfait pour les jeunes sur lesquels nous comptons pour défendre et préserver ces cultures et ces mémoires. La numérisation rend le tout plus amusant. C’est un excellent moyen pour transmettre intergénérationnellement le patrimoine aux jeunes autochtones, et aussi aux non-autochtones, car c’est une expérience unique en son genre.
+
