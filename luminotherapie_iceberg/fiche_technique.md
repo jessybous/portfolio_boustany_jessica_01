@@ -28,14 +28,15 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
 ## Expérience vécue
 
+![selfie](/luminotherapie_iceberg/medias/selfie.jpg)
 
+Lorsque les gens rentrait dans l'oeuvre, celle-ci réagissait en s'allumant et en emmetant du son. Lorsque je suis rentré dedans, la lumière commençais à être rougeâtre et les sons changeait. 
 
 -  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 -  Ce qui vous a plu, vous a donné des idées et justifications
 -  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## Références
-
 
 https://www.quartierdesspectacles.com/en/about/partnership-productions/work/20/iceberg-by-appareil-architecture/
 https://www.quartierdesspectacles.com/fr/blogue/222/iceberg-pour-imposer-lhiver-au-centre-ville-de-montreal
