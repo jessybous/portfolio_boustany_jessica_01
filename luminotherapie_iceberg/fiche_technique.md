@@ -18,6 +18,7 @@ Iceberg est une installation interactive immersive qui permet au public de suivr
 
 Les artistes ont trouvés que le son générés par l'eau et le vent qui s'infiltrent dans ses crevasses est poétique à faire avec des tuyaux d'orgues. Ils ont donc dédicés de les représentés par des arches métalliques, contenant chacune leur propre tonalité. Lorsqu'il y a beaucoup d'activités humaines dans l'iceberg, celui-ci se teinte en rouge, représentant le réchaiffement climatique et émmet des sons représentant l'iceberg qui se basculle sur lui même. Les sons et la lumièere voyages d'un bout à l'autre de l'iceberg comme la pureté boréale.il réagit à la présence humaine, tout comme un iceberg réagit au réchauffement climatique. L'oeuvre mesure 68po de longueur, 8po de hauteur et 17po de largeur.
 
+[![boite_lumiere](https://img.youtube.com/vi/HHqVBNZm3aM/0.jpg)](https://www.youtube.com/shorts/HHqVBNZm3aM)
 
 
 ## Expérience vécue
