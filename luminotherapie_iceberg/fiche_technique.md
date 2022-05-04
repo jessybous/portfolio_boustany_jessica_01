@@ -10,6 +10,8 @@ Iceberg est une oeuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebr
 
 ![pancarte](/luminotherapie_iceberg/medias/pancarte.jpg)
 
+![interrieur](/luminotherapie_iceberg/medias/interrieur_iceberg.jpg)
+
 Iceberg est une installation interactive immersive qui permet au public de suivre l'évolution d'un iceberg de sa création à sa dissolution
 
 - Description de l'oeuvre ou du dispositif multimédia 
