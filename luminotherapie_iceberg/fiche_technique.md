@@ -30,11 +30,7 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
 ![selfie](/luminotherapie_iceberg/medias/selfie.jpg)
 
-Lorsque les gens rentrait dans l'oeuvre, celle-ci réagissait en s'allumant et en emmetant du son. Lorsque je suis rentré dedans, la lumière commençais à être rougeâtre et les sons changeait. 
-
--  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
--  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Lorsque les gens rentrait dans l'oeuvre, celle-ci réagissait en s'allumant et en emmetant du son. Lorsque je suis rentré dedans, la lumière commençais à être rougeâtre et les sons changeait, ce que j'ai trouvé facinant, car je n'ai jamais vu une oeuvre de ce genre. Les sons d'eau était apaisants et calme. Selon moi, j'aurais fait l'oeuvre un peu plus grande pour accueillir plus de gens, car la circulation était difficile.
 
 ## Références
 
