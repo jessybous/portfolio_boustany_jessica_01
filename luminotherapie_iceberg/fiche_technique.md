@@ -15,9 +15,14 @@ Iceberg est une œuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebr
 Iceberg est une installation interactive immersive qui permet au public de suivre l'évolution d'un iceberg de sa création à sa dissolution. L'installation, fait d'arches métalliques, réagit au passage des gens, et émet des sons et de la lumière. Il y a quatre structures différentes d'un iceberg pour montrer les quatre étapes par lequel tout iceberg passe. Le premier, positionné au nord, représente le commencement d'un vrai iceberg. Des sons y sont émis, rappelant le vent et les craquements de glace qu'émet un iceberg à ce moment. La partie Sud laisse place à de la musique qui symbolisent la fin de son chemin.
 
 ![interrieur](/luminotherapie_iceberg/medias/interrieur_iceberg.jpg)
+
+## Vidéo sur la lumière et les sons émit par l'oeuvre: 
+
 [![lumiere_son](https://img.youtube.com/vi/jmyOe0qiU9c/0.jpg)](https://www.youtube.com/shorts/jmyOe0qiU9c)
 
 Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infiltrent dans ses crevasses est poétique à faire avec des tuyaux d'orgues. Ils ont donc dédié de les représentés par des arches métalliques, contenant chacune leur propre tonalité. Lorsqu'il y a beaucoup d'activités humaines dans l'iceberg, celui-ci se teinte en rouge, représentant le réchauffement climatique et émet des sons représentant l'iceberg qui se bascule sur lui-même. Les sons et la lumière voyages d'un bout à l'autre de l'iceberg comme la pureté boréale.il réagit à la présence humaine, tout comme un iceberg réagit au réchauffement climatique. L'œuvre mesure 68po de longueur, 8po de hauteur et 17po de largeur.
+
+## Vidéo sur la boite de contrôle et la représentation du réchauffement:
 [![boite_lumiere](https://img.youtube.com/vi/HHqVBNZm3aM/0.jpg)](https://www.youtube.com/shorts/HHqVBNZm3aM)
 
 
