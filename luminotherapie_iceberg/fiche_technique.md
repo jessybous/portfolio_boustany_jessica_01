@@ -12,12 +12,16 @@ Iceberg est une oeuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebr
 
 ![interrieur](/luminotherapie_iceberg/medias/interrieur_iceberg.jpg)
 
-Iceberg est une installation interactive immersive qui permet au public de suivre l'évolution d'un iceberg de sa création à sa dissolution
+Iceberg est une installation interactive immersive qui permet au public de suivre l'évolution d'un iceberg de sa création à sa dissolution. L'installation, fait d'arches métalliques, réagit au passage des gens, et emmet des sons et de la lumière. Il y a quatres structures différentes d'un iceberg pour montrer les quatres étapes par laquel tout iceberg passe. Le premier, positioné au nord, représente le commencement d'un vrai iceberg. Des sons y sont émis, rappellant le vent et les craquements de glace qu'émmet un iceberg à ce momment. La partie Sud laisse place à de la musique qui symbolisent la fin de son chemin.
+
+[![lumiere_son](https://img.youtube.com/vi/jmyOe0qiU9c/0.jpg)](https://www.youtube.com/shorts/jmyOe0qiU9c)
 
 - Description de l'oeuvre ou du dispositif multimédia 
 - Explications sur la mise en espace de l'oeuvre ou du dispositif 
 - Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Liste des éléments nécessaires pour la mise en exposition 
+
+
 
 ## Expérience vécue
 - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
@@ -35,6 +39,8 @@ Iceberg est une installation interactive immersive qui permet au public de suivr
 - autoportrait (photo) de vous avec l'oeuvre
 - croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
 - possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+
+
 
 
 https://www.quartierdesspectacles.com/en/about/partnership-productions/work/20/iceberg-by-appareil-architecture/
