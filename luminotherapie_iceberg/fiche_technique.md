@@ -28,13 +28,15 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
 ## Expérience vécue
 
-
-
 -  Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 -  Ce qui vous a plu, vous a donné des idées et justifications
 -  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## Références
+
+
+https://www.quartierdesspectacles.com/en/about/partnership-productions/work/20/iceberg-by-appareil-architecture/
+https://www.quartierdesspectacles.com/fr/blogue/222/iceberg-pour-imposer-lhiver-au-centre-ville-de-montreal
 
 # photographies
 - croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
@@ -43,5 +45,3 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
 
 
-https://www.quartierdesspectacles.com/en/about/partnership-productions/work/20/iceberg-by-appareil-architecture/
-https://www.quartierdesspectacles.com/fr/blogue/222/iceberg-pour-imposer-lhiver-au-centre-ville-de-montreal
