@@ -2,11 +2,14 @@
 
 ![iceberg_martine](/luminotherapie_iceberg/medias/iceberg-martine-.jpg)
 
-###### source: Iceberg/Luminothérapie. Photo: © Martine Doyon
+###### Source: Iceberg/Luminothérapie. Photo: © Martine Doyon
 
 Iceberg est une oeuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebrun d'ATOMIC3 (direction artistique, conception de lumière et réalisation), APPAREIL architecture(conception architectural par Kim Pariseau), Jean Sébastien Côté (conception sonore) et Phillippe Jean (conception des modules interactifs). Cette oeuvre est une coproduction d'ATOMIC3 et du Partenariat du Quartier des spectacles et en codiffusion avec la Place des Arts). Iceberg fut créer en Janvier 2013, et exposée à Luminothérapie, au Quartier des Spéctacle de Montréal en 2022. J'ai eu la chance de visité cette oeuvre le 5 Mars 2022.
 
 ## description
+
+![pancarte](/luminotherapie_iceberg/medias/pancarte.jpg)
+
 - Description de l'oeuvre ou du dispositif multimédia 
 - Explications sur la mise en espace de l'oeuvre ou du dispositif 
 - Liste des composantes et techniques de l'oeuvre ou du dispositif 
