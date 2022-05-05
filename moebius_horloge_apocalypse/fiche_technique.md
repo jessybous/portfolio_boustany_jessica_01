@@ -24,6 +24,10 @@ Personnellement, je suis très impressionnée par la qualité du son et des proj
 
 ## Retour sur l'ordre de préférence
 
+Mon ordre de préférence originale était : Chère Sasha, L’horloge de l’apocalypse, 3 minutes, Chronophrage, Jeu temporel et Distorsion Collective.
+Mon nouvel ordre est: Chère Sasha, L’horloge de l’apocalypse, Chronophrage, jeu temporel, 3 minutes et Distorsion Collective. 
+J'ai mis Chronophrage en 3ème place, car la visualisation directe du projet rendait le tout plus intéressant que ce que je croyais en lisant les descriptions. La façon dont les animations interagissait avec les différents mouvements des gens nous immergeait complètement dedans l'œuvre, comme si l'on faisait partie de celle-ci. J'ai mis jeu temporel en quatrième, car c'était moins ennuyant et simpliste que je croyais. Les réactions du personnage aux réponses était fluide et bien représenter. J'ai mis 3 minutes en cinquième, car le jeu avait beaucoup de problème, et les 3 minutes de jeux VR paraissait très longues, ce qui allait à l'encontre du but de l'œuvre. Le fait qu'il fallait enlever le casque et ensuite se diriger dans le casier nous sortait de l'expérience, ce que je trouve gâchait le tout. Selon moi, si l'oeuvre était dans une salle insonorisée et vide, et que lorsque les trois premières minutes s’achèvent on voyait que du noir et n'entendait rien du tout, cela aurait rendu le tout plus approprié au but original, et de meilleure qualité. J'ai finalement mis Distorsion Collective en dernier, car rien dans l'oeuvre était claire. On ne s'avait pas quand précisément mettre le casque, et lorsqu'on la finalement mis, rien ne nous disait de cliquer quoi que ce soit, ou d'attendre. Puis, le tout se répétait sans que l'on ne sache pourquoi où quoi faire. On ne savait rien de ce qui se passait, ce qui ne m'a pas plu.
+
 
 ## Références
 
