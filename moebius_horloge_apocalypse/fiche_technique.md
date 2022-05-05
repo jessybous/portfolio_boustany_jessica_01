@@ -21,6 +21,10 @@ Au départ, l’utilisateur arrive dans le studio ou il y trouvera une horloge e
 ## Expérience vécue
 
 Personnellement, je suis très impressionnée par la qualité du son et des projections. Les effets sonores représentent bien l’animation mise en scène et ajoute du charme à l’exposition. L’interactivité des visiteurs sur l’œuvre rend le tout encore plus intéressant. Malheureusement, certaines transitions ne sont pas parfaites. J’essayerais d’éviter cela pour rendre le tout considérablement plus professionnel.
+
+## Retour sur l'ordre de préférence
+
+
 ## Références
 
 La source contenant les informations et quelques photos sur le projet est : https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
