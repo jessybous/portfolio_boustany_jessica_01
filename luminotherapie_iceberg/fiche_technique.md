@@ -21,7 +21,7 @@ Iceberg est une installation interactive immersive, qui permet au public de suiv
 
 [![lumiere_son](https://img.youtube.com/vi/jmyOe0qiU9c/0.jpg)](https://www.youtube.com/shorts/jmyOe0qiU9c)
 
-Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infiltrent dans ses crevasses est poétique à faire avec des tuyaux d'orgues. Ils ont donc dédié de les représentés par des arches métalliques, contenant chacune leur propre tonalité. Lorsqu'il y a beaucoup d'activités humaines dans l'iceberg, celui-ci se teinte en rouge, représentant le réchauffement climatique et émet des sons représentant l'iceberg qui se bascule sur lui-même. Les sons et la lumière voyages d'un bout à l'autre de l'iceberg comme la pureté boréale. Il réagit à la présence humaine, tout comme un iceberg réagit au réchauffement climatique. L'œuvre mesure 68po de longueur, 8po de hauteur et 17po de largeur.
+Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infiltrent dans ces crevasses sont poétiques à faire avec des tuyaux d'orgues. Ils les ont donc représentés par des arches métalliques contenant chacune leur propre tonalité. Lorsqu'il y a beaucoup d'intéractions humaines dans l'iceberg, celui-ci se teint en rouge, représentant le réchauffement climatique et émet des sons de l'iceberg lorsqu'il bascule. Les sons et la lumière voyagent d'un bout à l'autre de l'iceberg comme la pureté boréale. Il réagit à la présence humaine, tout comme un iceberg réagit au réchauffement climatique. L'œuvre mesure 68po de longueur, 8po de hauteur et 17po de largeur.
 
 ## Vidéo sur la boite de contrôle et la représentation du réchauffement
 [![boite_lumiere](https://img.youtube.com/vi/HHqVBNZm3aM/0.jpg)](https://www.youtube.com/shorts/HHqVBNZm3aM)
@@ -31,7 +31,7 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
 ![selfie](/luminotherapie_iceberg/medias/selfie.jpg)
 
-Lorsque les gens rentrait dans l'oeuvre, celle-ci réagissait en s'allumant et en emmetant du son. Lorsque je suis rentré dedans, la lumière commençais à être rougeâtre et les sons changeait, ce que j'ai trouvé facinant, car je n'ai jamais vu une oeuvre de ce genre. Les sons d'eau était apaisants et calme. Selon moi, j'aurais fait l'oeuvre un peu plus grande pour accueillir plus de gens, car la circulation était difficile.
+Lorsque les gens rentraient dans l'oeuvre, celle-ci réagissait en s'allumant et en émettant du son. Lorsque je suis rentrée dedans, la lumière commençait à être rougeâtre et les sons changeaient, ce que j'ai trouvée fascinants, car je n'ai jamais vu une oeuvre de ce genre. Les sons d'eau était apaisants et calme. Selon moi, j'aurais fait l'oeuvre un peu plus grande pour accueillir plus de gens, car la circulation était difficile.
 
 ## Références
 
