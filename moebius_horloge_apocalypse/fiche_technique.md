@@ -3,6 +3,7 @@
 
 ![oeuvre](/moebius_horloge_apocalypse/medias/oeuvre.jpg)
 L’exposition porte le nom de: Moebius, alors que l'oeuvre s'appelle: L’horloge de l’apocalypse. Cette oeuvre est un projet créatif qui a été réalisé par les élèves montmorenciens : Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime DeFalco. Ceux-ci ont exposé cette œuvre multimédiatique, dans le cadre de leur projet de fin de sixième session, au studio C1710 de Technique d’intégration multimédia, au Collège Montmorency. J'ai eu l’honneur de visité l'exposition, le 23 mars 2022, créée la même année que celle de ma visite, dans le but de pouvoir vivre à travers les disparates époques auxquelles la Terre a été exposée et de prendre conscience des divers enjeux actuels.
+
 ![selfie](/moebius_horloge_apocalypse/medias/selfie.jpg)
 
 ## Description
