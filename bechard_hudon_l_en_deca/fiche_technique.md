@@ -25,7 +25,7 @@ Voici une vidéo représentant les sons de l'œuvre:
 
 ## expérience vécue
 
-J'ai adoré comment les sons laissent place à notre imagination. Les vibrations des murs m’apaisent et rendent le tout fascinant. Un aspect que je ne souhaite pas retenir pour mes propres créations est l'esthétique de ce projet, parce que, au premier regard, l'œuvre m’avait désintéressé par le manque d’organisation des éléments permettant la transfusion du son.
+J'ai adoré la manière dont les sons laissent place à notre imagination. Les vibrations des murs m’apaisent et rendent le tout fascinant. Un aspect que je ne souhaite pas retenir pour mes propres créations est l'esthétique de ce projet, parce que, au premier regard, l'œuvre m’avait désintéressée par le manque d’organisation des éléments permettant la transfusion du son.
 
 ## références
 
