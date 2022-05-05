@@ -4,7 +4,7 @@
 
 ###### Source: Iceberg/Luminothérapie. Photo: © Martine Doyon
 
-Iceberg est une œuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebrun d'ATOMIC3 (direction artistique, conception de lumière et réalisation), APPAREIL architecture(conception architectural par Kim Pariseau), Jean Sébastien Côté (conception sonore) et Phillippe Jean (conception des modules interactifs). Cette œuvre est une coproduction d'ATOMIC3 et du Partenariat du Quartier des spectacles et en codiffusion avec la Place des Arts). Iceberg fut créer en Janvier 2013, et exposée à Luminothérapie, au Quartier des Spectacle de Montréal en 2022. J'ai eu la chance de visité cette œuvre le 5 Mars 2022.
+Iceberg est une œuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebrun d'ATOMIC3 (direction artistique, conception de lumière et réalisation), APPAREIL architecture(conception architectural par Kim Pariseau), Jean Sébastien Côté (conception sonore) et Phillippe Jean (conception des modules interactifs). Cette œuvre est une coproduction d'ATOMIC3 et du Partenariat du Quartier des spectacles, et en codiffusion avec la Place des Arts. Iceberg fut créer en Janvier 2013, et exposée à Luminothérapie, au Quartier des Spectacle de Montréal en 2022. J'ai eu la chance de visité cette œuvre le 5 Mars 2022.
 
 
 ## Description
