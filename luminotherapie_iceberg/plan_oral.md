@@ -11,10 +11,10 @@
  Je vais maintenant vous parler des l'histoire derrière cette oeuvre, ses composantes et mon expérience avec celle-ci.
  
  
-## Développement
+# Développement
 
 
- # Informations sur l'oeuvre et le lieu d'exposition 
+ ## Informations sur l'oeuvre et le lieu d'exposition 
  
  
   Iceberg est une œuvre produite par: Félix Dagenais et Louis-Xavier Gagnon-Lebrun d'ATOMIC3 (direction artistique, conception de lumière et réalisation), APPAREIL architecture(conception architectural par Kim Pariseau), Jean Sébastien Côté (conception sonore) et Phillippe Jean (conception des modules interactifs). Cette œuvre est une coproduction d'ATOMIC3 et du Partenariat du Quartier des spectacles. Celle-ci est en codiffusion avec la Place des Arts. Exposée à Luminothérapie, au Quartier des Spectacle de Montréal en 2022, Iceberg fut créée en Janvier 2013. J'ai eu la chance de visiter cette œuvre le 5 Mars 2022.
@@ -32,6 +32,6 @@ Les artistes ont trouvé que les sons générés par l'eau et le vent qui s'infi
 
  
  
-## Conclusion
+# Conclusion
 
 Pour conclure, cette oeuvre unique en son genre est très poétique et significative. Elle nous rappelle l'évolution d'un iceberg grâce à sa douce mélodie et ses lumière. Ce qui m'inspire dans tout les oeuvres vues durant la session, c'est la différence de chacune. Plusieurs parraissaient tellement simple, mais s'avérait à être passionantes. Les symboles que chaque oeuvre représentait m'inspiraient à créer des oeuvres similaires.
