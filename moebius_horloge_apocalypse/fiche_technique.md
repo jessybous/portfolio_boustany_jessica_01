@@ -45,6 +45,8 @@ Personnellement, je suis très impressionnée par la qualité du son et des proj
 5. 3 minutes
 6. Distorsion Collective. 
 
+## Raison du changement d'ordre
+
 ### Chronophrage
 
 J'ai mis Chronophrage en 3ème place, car la visualisation directe du projet rendait le tout plus intéressant que ce que je croyais en lisant les descriptions. La façon dont les animations interagissaient avec les différents mouvements des gens nous immergeait complètement dans l'œuvre, comme si nous faisions partie de celle-ci. 
