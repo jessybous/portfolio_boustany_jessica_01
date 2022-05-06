@@ -45,7 +45,7 @@ Personnellement, je suis très impressionnée par la qualité du son et des proj
 5. 3 minutes
 6. Distorsion Collective. 
 
-## Raison du changement d'ordre
+## Raisons du changement d'ordre
 
 ### Chronophrage
 
